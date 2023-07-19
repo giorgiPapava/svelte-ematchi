@@ -58,6 +58,6 @@
 		height: 6em;
 		pointer-events: none;
 		transform: rotateY(180deg);
-		/* backface-visibility: hidden; */
+		backface-visibility: hidden;
 	}
 </style>
